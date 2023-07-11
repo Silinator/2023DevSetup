@@ -1,0 +1,9 @@
+{
+	"printWidth": 110,
+	"trailingComma": "es5",
+	"braceStyle": "1tbs",
+	"arrowParens": "avoid",
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true
+}
